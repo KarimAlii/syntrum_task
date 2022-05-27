@@ -13,8 +13,6 @@
                 <a class="nav-link active" aria-current="page" href="http://127.0.0.1:8000/admin">Home</a>
                 </li>
             </li>
-            <a class="nav-link" href="../">eCommerce</a>
-            </li>
             <li class="nav-item ">
             <a class="nav-link" href="{{route('products.index')}}">Products</a>
             </li>
